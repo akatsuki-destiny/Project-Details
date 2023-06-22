@@ -5,7 +5,7 @@
 - Bu proje için microservis yapısını kullanacaktır.
 - Bütün endpointler Postman ve Swagger UI kullanılacaktır. 
 - Proje arayüzü için React kullanılacaktır. 
-- Proje arayüzü için Html5, Css3, Js, React, jQuery, Tailwind kullanabilirsiniz. 
+- (FE için en popülerlerini kullanalım.)Proje arayüzü için Html5, Css3, Js, React, jQuery, Tailwind kullanabilirsiniz. 
 
 
 ## Proje Açıklaması 
