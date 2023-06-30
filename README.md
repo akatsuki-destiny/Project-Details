@@ -1,4 +1,4 @@
-# Project-Details
+# PROJECT_ZERO
 
 ## Konu: E-Ticaret Projesi 
 
